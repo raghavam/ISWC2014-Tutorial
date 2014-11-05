@@ -1,0 +1,1 @@
+This repository contains the slides used for the tutorial "Large Scale Reasoning over Semantic Data" at the 13th International Semantic Web Conference (ISWC 2014) held at Riva del Garda, Italy. Tutorial took place on October 19, 2014.
